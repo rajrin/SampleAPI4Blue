@@ -2,7 +2,7 @@
 
 var auth = require('basic-auth');
 
-var   user = 'tcs';
+var   user = 'whoever';
 var   pass = 'password';
 
 module.exports = {
