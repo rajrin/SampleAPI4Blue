@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: tcs.us-south.mybluemix.net
+  domain: xxx
   name: customer
   host: customer
   disk_quota: 1024M
